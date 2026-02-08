@@ -1,3 +1,15 @@
+---
+name: PPT Generator Pro
+description: 基于 AI 自动生成高质量 PPT 图片和视频，支持智能转场和交互式播放
+version: 2.0.0
+author: 歸藏
+tags:
+  - ppt
+  - presentation
+  - video
+  - ai
+---
+
 # PPT Generator Pro - Claude Code Skill
 
 ## 📋 元数据
